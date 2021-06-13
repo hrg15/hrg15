@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrg15
+- 👋 Hi, I’m Hamidreza
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning React js
 
