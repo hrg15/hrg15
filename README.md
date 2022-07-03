@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hamidreza
-- 🌱 I’m currently learning React js
+- 🌱 I’m a React js developer
 
