@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Hamidreza
-- 🌱 I’m a React js developer
-
+- 🌱 I’m a Front-End Developer
